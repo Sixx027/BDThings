@@ -1,5 +1,5 @@
 :root {
-    --bdAddonMini-bg-checked: rgba(0, 0, 0, 0.6);
+    --bdAddonMini-bg-checked: tranparent
     --bdAddonMini-bg-unchecked: transparent;
     --bdAddonMini-bg-unchecked-hover: transparent;
 }
@@ -76,7 +76,7 @@
 }
 
 .bd-addon-list .bd-footer .bd-link {
-    color: var(--interactive-normal);
+    color: rgba(0, 0, 0, 0.6);
 }
 
 .bd-addon-list .bd-footer .bd-link:hover {
