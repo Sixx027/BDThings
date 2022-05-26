@@ -1,5 +1,5 @@
 :root {
-    --bdAddonMini-bg-checked: tranparent
+    --bdAddonMini-bg-checked: rgba(0, 0, 0, 0.6);
     --bdAddonMini-bg-unchecked: transparent;
     --bdAddonMini-bg-unchecked-hover: transparent;
 }
