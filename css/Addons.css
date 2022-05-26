@@ -1,6 +1,6 @@
 :root {
-    --bdAddonMini-bg-checked: var(--background-primary);
-    --bdAddonMini-bg-unchecked: var(--background-secondary);
+    --bdAddonMini-bg-checked: rgba(0, 0, 0, 0.6);
+    --bdAddonMini-bg-unchecked: transparent;
     --bdAddonMini-bg-unchecked-hover: transparent;
 }
 
